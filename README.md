@@ -1,13 +1,11 @@
 HAC-Country-Analysis
 ====================
 
-Project Overview
-----------------
+__Project Overview__
 
 This project implements **Hierarchical Agglomerative Clustering (HAC)** to analyze and categorize countries based on various socio-economic indicators. The goal is to uncover patterns and insights into global socio-economic trends, making it easier to understand the relationships between different countries in terms of their key features.
 
-Key Features
-------------
+__Key Features__
 
 *   **Data Preprocessing**: Clean and prepare the socio-economic data of countries for clustering, including handling missing values and normalization.
 
@@ -19,8 +17,7 @@ Key Features
 
 *   **Country Grouping**: Categorize countries into clusters, helping to identify regions with similar economic and demographic features.
 
-Technologies Used
------------------
+__Technologies Used__
 
 *   **Python**: The primary programming language for data manipulation, clustering, and analysis.
     
@@ -30,8 +27,7 @@ Technologies Used
     
 *   **Matplotlib**: Used for generating visualizations, including dendrograms and cluster plots.
 
-How It Works
-------------
+__How It Works__
 
 1.  **Data Preprocessing**: The socio-economic dataset is loaded, cleaned, and standardized for clustering. Missing values are handled, and numerical features are scaled to ensure accurate clustering.
 
